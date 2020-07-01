@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\User Folders\Documents\GitHub\Trout-59\Trout-59.sch</source>
-    <date>6/23/2020 8:37:10 PM</date>
+    <date>6/30/2020 10:27:48 PM</date>
     <tool>Eeschema (5.1.6)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -23,6 +23,9 @@
       <value>ATmega32U4-AU</value>
       <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <fields>
+        <field name="C-Code">C44854</field>
+      </fields>
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-AU" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE25E65</tstamp>
@@ -1262,6 +1265,9 @@
       <value>SRV05-4</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="C-Code">C85364</field>
+      </fields>
       <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE6A000</tstamp>

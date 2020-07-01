@@ -21,6 +21,7 @@ F 0 "U1" H 4400 5961 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 4400 5870 50  0000 C CNN
 F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4400 7850 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4400 7850 50  0001 C CNN
+F 4 "C44854" H 4400 7850 50  0001 C CNN "C-Code"
 	1    4400 7850
 	1    0    0    -1  
 $EndComp
@@ -2395,6 +2396,7 @@ F 0 "U2" H 10700 8531 50  0000 C CNN
 F 1 "SRV05-4" H 10700 8440 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 11400 7400 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 10700 7850 50  0001 C CNN
+F 4 "" H 10700 7850 50  0001 C CNN "C-Code"
 	1    10700 7850
 	1    0    0    -1  
 $EndComp
